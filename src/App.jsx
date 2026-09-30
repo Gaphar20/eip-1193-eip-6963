@@ -1,3 +1,4 @@
+import "./App.css";
 import Eip6963 from "./Eip6963";
 
 function App() {
